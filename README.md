@@ -1,4 +1,4 @@
-## <img align="left" src="/assets/images/userandaname.png"> Zayaan AR
+## <img align="left" src="/assets/images/atomgg.png"> userandaname
 
 # test
 
