@@ -1,4 +1,6 @@
-## Hi there 👋
+## <img align="left" src="/assets/images/userandaname.png"> userandaname
+
+# test
 
 <!--
 **userandaname/userandaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
