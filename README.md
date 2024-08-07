@@ -2,7 +2,7 @@
 
 # ill update this with more in a sec
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:823939421686071386)](https://discord.com/users/:823939421686071386)
+[![Discord Presence](https://lanyard.cnrad.dev/api/823939421686071386)](https://discord.com/users/823939421686071386)
 
 <!--
 **userandaname/userandaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
