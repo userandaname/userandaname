@@ -1,6 +1,6 @@
-## <img align="left" src="/assets/images/atomgg.png"> userandaname
+<!-- ## <img align="left" src="/assets/images/atomgg.png"> userandaname -->
 
-# test
+# ill update this in a sec
 
 <!--
 **userandaname/userandaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
