@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     </p>
     <p align="center">
         <a href="https://github.com/userandaname">
-            <img src="https://komarev.com/ghpvc/?username=userandaname&label=profile+views&logo=github" />
+            <img src="https://komarev.com/ghpvc/?username=userandaname&label=profile+views" />
         </a>
         <a href="https://discord.gg/HnYfxmvrHJ">
             <img src="https://img.shields.io/discord/1252393773468745852?color=7489d5&logo=discord&logoColor=ffffff" />
