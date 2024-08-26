@@ -1,8 +1,8 @@
 <!-- ## <img align="left" src="/assets/images/atomgg.png"> userandaname -->
 
-# ill update this with more in a sec
+<!-- # ill update this with more in a sec -->
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/823939421686071386)](https://discord.com/users/823939421686071386)
+<!-- [![Discord Presence](https://lanyard.cnrad.dev/api/823939421686071386)](https://discord.com/users/823939421686071386) -->
 
 <!--
 **userandaname/userandaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">
     <p align="center">
+        <h1 align="center">Discord</h1>
         <a href="https://discord.com/users/823939421686071386">
             <img src="https://lanyard.cnrad.dev/api/823939421686071386" />
         </a>
