@@ -36,6 +36,14 @@ Here are some ideas to get you started:
     </p>
 </h1>
 
+<h1 align="center">
+    <p align="center">
+        <a href="https://discord.com/users/823939421686071386">
+            <img src="https://lanyard.cnrad.dev/api/823939421686071386" />
+        </a>
+    </p>
+</h1>
+
 ### [About](https://atomgg.ddns.net/)
 
 Atom is a free to use, multi-purpose, all-in-one Discord bot.
