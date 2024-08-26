@@ -27,21 +27,17 @@ Here are some ideas to get you started:
 
 <h1 align="center">
     <p align="center">
+        <a href="https://discord.com/users/823939421686071386">
+            <img src="https://lanyard.cnrad.dev/api/823939421686071386" />
+        </a>
+    </p>
+    <p align="center">
         <a href="https://discord.gg/HnYfxmvrHJ">
             <img src="https://komarev.com/ghpvc/?username=userandaname" />
         </a>
         <!-- <img src="https://img.shields.io/static/v1?label=status&message=beta&color=blue">
         <img src="https://img.shields.io/badge/servers-50+-orange">
         <img src="https://img.shields.io/badge/users-76,000+-red"> -->
-    </p>
-</h1>
-
-<h1 align="center">Discord
-    <br>
-    <p align="center">
-        <a href="https://discord.com/users/823939421686071386">
-            <img src="https://lanyard.cnrad.dev/api/823939421686071386" />
-        </a>
     </p>
 </h1>
 
