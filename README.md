@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <p align="center">
-  <img width="100" src="https://raw.githubusercontent.com/AtomLabss/.github/main/assets/images/atomgg.png?s=200&v=4" />
-</p> -->
+<p align="center">
+    <img width="100" src="https://avatars.githubusercontent.com/u/81559574?v=4" />
+</p>
 
-<h1 align="center">Atom</h1>
+<h1 align="center">Zayaan AR</h1>
 
 <h1 align="center">
     <p align="center">
@@ -32,8 +32,14 @@ Here are some ideas to get you started:
         </a>
     </p>
     <p align="center">
-        <a href="https://discord.gg/HnYfxmvrHJ">
+        <a href="https://github.com/userandaname">
             <img src="https://komarev.com/ghpvc/?username=userandaname" />
+        </a>
+        <a href="https://discord.gg/HnYfxmvrHJ">
+            <img src="https://img.shields.io/discord/1252393773468745852?color=7489d5&logo=discord&logoColor=ffffff" />
+        </a>
+        <a href="https://github.com/AtomLabss/AtomWeb">
+            <img src="https://img.shields.io/github/commit-activity/w/AtomLabss/AtomWeb?authorFilter=userandaname&logo=github&label=commit%20activity" />
         </a>
         <!-- <img src="https://img.shields.io/static/v1?label=status&message=beta&color=blue">
         <img src="https://img.shields.io/badge/servers-50+-orange">
