@@ -36,9 +36,8 @@ Here are some ideas to get you started:
     </p>
 </h1>
 
-<h1 align="center">
+<h1 align="center">Discord
     <p align="center">
-        Discord
         <a href="https://discord.com/users/823939421686071386">
             <img src="https://lanyard.cnrad.dev/api/823939421686071386" />
         </a>
