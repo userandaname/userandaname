@@ -49,4 +49,6 @@ Here are some ideas to get you started:
 
 ### [About](https://zayaanar.is-a.dev/)
 
-Atom is a free to use, multi-purpose, all-in-one Discord bot.
+ill add more to my README later on lol, currently focusing on Atom so dunno when ill get back to this..
+
+prolly soon realistically
