@@ -12,11 +12,6 @@
     </p>
     <p align="center">
         <a href="https://github.com/userandaname">
-            <img src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
-        </a>
-    </p>
-    <p align="center">
-        <a href="https://github.com/userandaname">
             <img src="https://komarev.com/ghpvc/?username=userandaname&label=profile+views&color=orange" />
         </a>
         <a href="https://discord.gg/HnYfxmvrHJ">
@@ -30,19 +25,15 @@
 
 ### [About](https://zayaanar.me)
 
-just another causual developer, doing developer things
+Just another causual developer, doing developer things.
+<br>
+Currently working on [@AtomLabss](https://github.com/AtomLabss).
 
-ill add more to my README later on lol, currently focusing on Atom so dunno when ill get back to this..
+I'll add more to my README later on, currently focusing on Atom so dunno when ill get back to this..
 
-### [Statistics](https://github.com/userandaname)
-<p align="center">
-    <a href="https://github.com/userandaname">
-        <img src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
-    </a>
-</p>
+### [GitHub Statistics](https://github.com/userandaname)
 
-<p align="center">
-    <a href="https://github.com/userandaname">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515" />
-    </a>
-</p>
+<div align='center'>
+    <img align='left' height='190' alt='total' src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
+    <img align='right' height='190' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515" />
+</div>
