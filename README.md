@@ -8,14 +8,11 @@
     <p align="center">
         <a href="https://discord.com/users/823939421686071386">
             <img src="https://lanyard.cnrad.dev/api/823939421686071386" />
-            <a href="https://github.com/userandaname">
-                <img src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
-            </a>
         </a>
     </p>
     <p align="center">
         <a href="https://github.com/userandaname">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515" />
+            <img src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
         </a>
     </p>
     <p align="center">
@@ -28,12 +25,24 @@
         <a href="https://github.com/AtomLabss/AtomWeb">
             <img src="https://img.shields.io/github/commit-activity/w/AtomLabss/AtomWeb?authorFilter=userandaname&logo=github&label=commit%20activity" />
         </a>
-        <!-- <img src="https://img.shields.io/static/v1?label=status&message=beta&color=blue">
-        <img src="https://img.shields.io/badge/servers-50+-orange">
-        <img src="https://img.shields.io/badge/users-76,000+-red"> -->
     </p>
 </h1>
 
-### [About](https://zayaanar.is-a.dev/)
+### [About](https://zayaanar.me)
+
+just another causual developer, doing developer things
 
 ill add more to my README later on lol, currently focusing on Atom so dunno when ill get back to this..
+
+### [Statistics](https://github.com/userandaname)
+<p align="center">
+    <a href="https://github.com/userandaname">
+        <img src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://github.com/userandaname">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515" />
+    </a>
+</p>
