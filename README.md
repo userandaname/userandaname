@@ -34,9 +34,9 @@ I'll add more to my README later on, currently focusing on Atom so dunno when il
 ### [GitHub Statistics](https://github.com/userandaname)
 
 <div align='center'>
-    <img align='left' height='160' alt='total' src="https://github-readme-stats.vercel.app/api?username=userandaname&theme=dark&border_color=151515" />
+    <img align='left' height='160' alt='total' src="https://github-readme-stats.vercel.app/api?username=userandaname&border_color=151515&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
 
 <div align='center'>
-    <img align='right' height='160' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515" />
+    <img align='right' height='160' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
