@@ -23,13 +23,13 @@
     </p>
 </h1>
 
-### [About](https://zayaanar.me)
+### [About](https://zayaanar.xyz)
 
 Just another causual developer, doing developer things.
 <br>
 Currently working on [@AtomLabss](https://github.com/AtomLabss), so uh, go check out our projects!
 
-I'll add more to my README later on, currently focusing on Atom and TuringAI so dunno when ill get back to this..
+I'll add more to my README later on, currently focusing on Atom/Lumen so dunno when ill get back to this..
 
 ### [GitHub Statistics](https://github.com/userandaname)
 
