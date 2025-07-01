@@ -42,5 +42,5 @@ I'll add more to my README later on, currently focusing on Atom/Lumen so dunno w
 </div>
 
 <div align='center'>
-    <img align='center' height='160' alt='time' src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7677&api_domain=hackatime.hackclub.com&&custom_title=Hackatime Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient" />
+    <img align='center' height='160' alt='time' src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7677&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
 </div>
