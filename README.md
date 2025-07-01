@@ -40,3 +40,7 @@ I'll add more to my README later on, currently focusing on Atom/Lumen so dunno w
 <div align='center'>
     <img align='right' height='160' alt='language' src="https://github-readme-stats.vercel.app/api/top-langs/?username=userandaname&layout=compact&theme=dark&border_color=151515&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </div>
+
+<div align='center'>
+    <img align='center' height='160' alt='time' src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7677&api_domain=hackatime.hackclub.com&&custom_title=Hackatime Stats&layout=compact&cache_seconds=0&langs_count=8&theme=ambient_gradient" />
+</div>
