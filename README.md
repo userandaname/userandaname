@@ -16,8 +16,6 @@
 
 Just another causual developer, doing developer things.
 
-I'll add more to my README later on, currently focusing on Lumen so dunno when ill get back to this..
-
 ### [GitHub Statistics](https://github.com/userandaname)
 
 <div align='center'>
