@@ -2,7 +2,7 @@
     <img width="100" src="https://avatars.githubusercontent.com/u/81559574?v=4" />
 </p>
 
-<!-- <h1 align="center">Zayaan AR</h1> -->
+<h1 align="center">Zayaan AR</h1>
 
 <h1 align="center">
     <p align="center">
