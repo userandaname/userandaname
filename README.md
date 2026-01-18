@@ -2,7 +2,7 @@
     <img width="100" src="https://avatars.githubusercontent.com/u/81559574?v=4" />
 </p>
 
-<h1 align="center">Zayaan AR</h1>
+<!-- <h1 align="center">Zayaan AR</h1> -->
 
 <h1 align="center">
     <p align="center">
@@ -12,7 +12,7 @@
     </p>
 </h1>
 
-### [About](https://zayaanar.xyz)
+<!-- ### [About](https://zayaanar.xyz)
 
 Just another causual developer, doing developer things.
 
@@ -28,4 +28,4 @@ Just another causual developer, doing developer things.
 
 <div align='center'>
     <img align='center' height='160' alt='time' src="https://github-readme-stats.hackclub.dev/api/wakatime?username=7677&api_domain=hackatime.hackclub.com&theme=ambient_gradient&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8" />
-</div>
+</div> -->
